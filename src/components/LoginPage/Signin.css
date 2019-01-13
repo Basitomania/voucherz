@@ -1,0 +1,24 @@
+#signchange{
+    display:none;
+}
+#sign-show{
+    display: none;
+}
+#show{
+    display: none;
+}
+#showpass{
+    display: none;
+}
+
+#sign-showappbar{
+    display:block !important;
+}
+#register{
+    float: right;
+    text-decoration: none;
+    padding-top: 10px;
+}
+#showPasschange{
+    display: none;
+}
